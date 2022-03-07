@@ -1,9 +1,7 @@
-![Developer](https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/272338976_1354099495049179_5844553100552930003_n.png?stp=dst-jpg&_nc_cat=103&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeFf7KuQaypJBNjEyw8Q-HePole7b7C3HjWiV7tvsLceNUG8JfG-vURBkBNahtQuwQpVhghNC399acr7_OjABNbB&_nc_ohc=SHfXPbkmFqMAX8OkPwH&_nc_ht=scontent.fdac7-1.fna&oh=00_AT-gCx5u3fgogrtOLUdyQcHhfAGOHZnERroqPD96CjQ-lQ&oe=622A5F0C)
+![Developer](https://64.media.tumblr.com/47362f8ef2d85f03f8657214f929f509/704de1bcdcec72d8-c2/s2048x3072/8a11f3032b71aa073e84c78cc861ca480a111c87.png)
 # Hey 🙋 I'm DEV Zisan 
 #### Developer
 
-
-https://scontent.fdac7-1.fna.fbcdn.net/v/t39.30808-6/272338976_1354099495049179_5844553100552930003_n.png?stp=dst-jpg&_nc_cat=103&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeFf7KuQaypJBNjEyw8Q-HePole7b7C3HjWiV7tvsLceNUG8JfG-vURBkBNahtQuwQpVhghNC399acr7_OjABNbB&_nc_ohc=SHfXPbkmFqMAX8OkPwH&_nc_ht=scontent.fdac7-1.fna&oh=00_AT-gCx5u3fgogrtOLUdyQcHhfAGOHZnERroqPD96CjQ-lQ&oe=622A5F0C
 
 I was born in Sunamganj district, Tahirpur Upazila. I have two sisters two brother and  my parents. I have completed intermediate in 2019. Now I am studying in Sunamganj Govt Collage B B A. in computer science engineering. I’ve been working on web design and development since 2019 for helping people to build their website, manage and develop functionality.
 
