@@ -1,11 +1,11 @@
 ![Developer](https://64.media.tumblr.com/47362f8ef2d85f03f8657214f929f509/704de1bcdcec72d8-c2/s2048x3072/8a11f3032b71aa073e84c78cc861ca480a111c87.png)
 # Hey 🙋 I'm DEV Zisan 
-#### Developer
+<h2>Developer</h2>
 
 
  I have completed intermediate in 2019. Now I am studying in Sunamganj Govt Collage B B A. in computer science engineering. I’ve been working on web design and development since 2019 for helping people to build their website, manage and develop functionality. I’m Passionate at web design and development. I work a minimum of 13-14 hours every day, I love to do this, it’s my life- everything. I learn new things every day.
 
-<h1>Skills:</h1> HTML / CSS/ PHP/ Wordpress/ Canva
+<h2>Skills:</h2> HTML / CSS/ PHP/ Wordpress/ Canva
 
 - 😛 I’m currently working on Fiverr 
 - 🙄 I’m currently learning PHP 
